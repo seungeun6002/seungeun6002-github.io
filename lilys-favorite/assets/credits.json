@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "user": "Ralphs_Fotos",
+    "page": "https://pixabay.com/photos/flower-lily-botany-blossom-bloom-3763573/"
+  },
+  "travel": {
+    "user": "822640",
+    "page": "https://pixabay.com/photos/globe-trotter-traveller-globe-map-1828079/"
+  },
+  "tarot": {
+    "user": "MiraCosic",
+    "page": "https://pixabay.com/photos/tarot-cards-magic-fortune-telling-991041/"
+  },
+  "estate": {
+    "user": "Pexels",
+    "page": "https://pixabay.com/photos/apartments-architecture-balconies-1845884/"
+  },
+  "travel-domestic": {
+    "user": "rmsep4",
+    "page": "https://pixabay.com/photos/house-building-roof-tradition-6934544/"
+  },
+  "travel-abroad": {
+    "user": "annekroiss",
+    "page": "https://pixabay.com/photos/sky-aviation-airplane-aircraft-6768714/"
+  },
+  "travel-wish": {
+    "user": "Ylanite",
+    "page": "https://pixabay.com/photos/compass-map-direction-degrees-2946959/"
+  },
+  "tarot-daily": {
+    "user": "jackmac34",
+    "page": "https://pixabay.com/photos/card-game-cards-player-distribute-2205554/"
+  },
+  "tarot-major": {
+    "user": "Girasol_Monge",
+    "page": "https://pixabay.com/photos/fortune-symbol-mystery-paranormal-2414239/"
+  },
+  "tarot-note": {
+    "user": "Darkmoon_Art",
+    "page": "https://pixabay.com/photos/notepad-table-decoration-notes-3297994/"
+  },
+  "estate-visit": {
+    "user": "ssalae",
+    "page": "https://pixabay.com/photos/buildings-street-traffic-seoul-410255/"
+  },
+  "estate-study": {
+    "user": "OleksandrPidvalnyi",
+    "page": "https://pixabay.com/photos/real-estate-homeownership-homebuying-6688945/"
+  },
+  "estate-area": {
+    "user": "viarami",
+    "page": "https://pixabay.com/photos/business-bar-restaurant-shield-5475283/"
+  },
+  "travel-domestic-1": {
+    "user": "ajs1980518",
+    "page": "https://pixabay.com/photos/jusangjeolli-cliff-coast-sea-ocean-4810725/"
+  },
+  "travel-domestic-2": {
+    "user": "sonharam0",
+    "page": "https://pixabay.com/photos/hill-of-hwarang-south-korea-gyeongju-6771727/"
+  },
+  "travel-abroad-1": {
+    "user": "DerWeg",
+    "page": "https://pixabay.com/photos/shrine-fall-autumn-leaves-japan-7611177/"
+  },
+  "travel-abroad-2": {
+    "user": "Pexels",
+    "page": "https://pixabay.com/photos/paris-gargoyle-france-architecture-1852928/"
+  },
+  "travel-wish-1": {
+    "user": "12019",
+    "page": "https://pixabay.com/photos/iceland-aurora-borealis-2111811/"
+  },
+  "travel-wish-2": {
+    "user": "Gherks",
+    "page": "https://pixabay.com/photos/sunset-houses-greece-santorini-7499759/"
+  },
+  "tarot-note-1": {
+    "user": "AlbanyColley",
+    "page": "https://pixabay.com/photos/craft-tarot-divination-2728227/"
+  },
+  "tarot-note-2": {
+    "user": "keithgonzalez",
+    "page": "https://pixabay.com/photos/tarot-cards-tarot-cards-5511610/"
+  },
+  "estate-visit-1": {
+    "user": "Nemo_Jo",
+    "page": "https://pixabay.com/photos/korea-republic-of-korea-seoul-3448689/"
+  },
+  "estate-visit-2": {
+    "user": "rmsep4",
+    "page": "https://pixabay.com/photos/south-korea-street-seoul-dusk-6918828/"
+  },
+  "estate-study-1": {
+    "user": "AlexanderStein",
+    "page": "https://pixabay.com/photos/house-money-euro-coin-coins-167734/"
+  },
+  "estate-study-2": {
+    "user": "stevepb",
+    "page": "https://pixabay.com/photos/keys-open-locks-security-unlock-525732/"
+  },
+  "estate-area-1": {
+    "user": "Pexels",
+    "page": "https://pixabay.com/photos/metro-platform-public-transport-1853976/"
+  },
+  "estate-area-2": {
+    "user": "ap301805",
+    "page": "https://pixabay.com/photos/old-school-building-yellow-building-7576490/"
+  },
+  "shanghai-1": {
+    "user": "Media_Breeze",
+    "page": "https://pixabay.com/photos/china-city-shanghai-bund-7094961/"
+  },
+  "shanghai-2": {
+    "user": "BennyBenzen",
+    "page": "https://pixabay.com/photos/shanghai-china-garden-tree-3724515/"
+  },
+  "shanghai-3": {
+    "user": "Lancier",
+    "page": "https://pixabay.com/photos/building-old-building-sky-blue-sky-5184394/"
+  },
+  "shanghai-4": {
+    "user": "Excellentcc",
+    "page": "https://pixabay.com/photos/city-china-shanghai-night-beijing-5156636/"
+  },
+  "shanghai-5": {
+    "user": "756crystal",
+    "page": "https://pixabay.com/photos/city-river-illuminated-buildings-2446326/"
+  },
+  "fukuoka-1": {
+    "user": "pieuxmensonge6066",
+    "page": "https://pixabay.com/photos/motsunabe-one-pot-sisel-hakata-5040938/"
+  },
+  "fukuoka-2": {
+    "user": "j-cocomo",
+    "page": "https://pixabay.com/photos/hakata-earthen-wall-fukuoka-hakata-863976/"
+  },
+  "fukuoka-3": {
+    "user": "theerab",
+    "page": "https://pixabay.com/photos/bridge-dazaifu-fukuoka-green-bridge-547284/"
+  },
+  "fukuoka-4": {
+    "user": "igorovsyannykov",
+    "page": "https://pixabay.com/photos/lanterns-asian-japanese-red-2792988/"
+  },
+  "fukuoka-5": {
+    "user": "allybally4b",
+    "page": "https://pixabay.com/photos/ramen-instant-noodles-japanese-ramen-4647408/"
+  }
+}
